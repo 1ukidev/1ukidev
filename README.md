@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### Want a coffee?
+### In the meantime see this wallpaper!
+<img src="Docs/wallpaper.png"/>
 <!--
 **1ukidev/1ukidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
