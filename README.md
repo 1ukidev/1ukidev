@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 ### Want a coffee?
 ### In the meantime see this wallpaper!
 <img src="Docs/wallpaper.png"/>
+![Bat.bat's github stats](https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true)
+
 <!--
 **1ukidev/1ukidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
