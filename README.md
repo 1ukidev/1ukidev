@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Want a coffee?
-### In the meantime see this wallpaper!
+
+![1ukidev's github stats](https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true)
 <img src="Docs/wallpaper.png"/>
-[![1ukidev's github stats](https://github-readme-stats.vercel.app/api?username=1ukidev)](https://github.com/1ukidev/github-readme-stats)
 
 <!--
 **1ukidev/1ukidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
