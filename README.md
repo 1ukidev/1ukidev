@@ -3,7 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true&show_icons=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact" width="375"/>
 
 ## Skills:
-
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,4 +23,4 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </p>
 
-<img src="Docs/wallpaper.png"/>
+<img src="docs/image.jpg"/>
