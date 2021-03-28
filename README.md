@@ -28,3 +28,4 @@
 </p>
 
 <img align="center" src="docs/image.jpg"/>
+<h3 align="center">Art by RicoDZ</h3>
