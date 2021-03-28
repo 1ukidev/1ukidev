@@ -27,6 +27,5 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </p>
 
-<hr/>
 <img align="center" src="docs/image.jpg"/>
 <h3 align="center">Art by RicoDZ</h3>
