@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-
-<h1 align="center">Contact: <a href="mailto:leonardomonteiro113@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"><h1/>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Contact: <a href="mailto:leonardomonteiro113@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"><h1/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical" width="375"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true&show_icons=true&theme=radical" width="450"/>
 
