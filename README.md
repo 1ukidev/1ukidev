@@ -27,7 +27,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </p>
 
-<h1 align="center">Contact:</h1>
+<h1 align="center">☎️ Contact:</h1>
 <p align="center">
 <a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"></a>
 </p>
