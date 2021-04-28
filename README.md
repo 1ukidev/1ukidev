@@ -1,6 +1,8 @@
 <h1 align="center">Hi</h1>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical" width="375"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true&show_icons=true&theme=radical" width="450"/>
+</p>
 
 <h1 align="center">💻 Skills:</h1>
 <p align="center">
@@ -32,5 +34,8 @@
 <a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"></a>
 </p>
 
+<p align="center">
 <img align="center" src="docs/image.jpg"/>
+</p>
+
 <h3 align="center">Art by RicoDZ</h3>
