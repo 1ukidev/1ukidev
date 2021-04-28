@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="docs/image.jpg"/>
+<img src="docs/image.jpg"/>
 </p>
 
 <h3 align="center">Art by RicoDZ</h3>
