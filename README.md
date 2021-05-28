@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/740291184223584437.gif"/></h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical" width="375"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true&show_icons=true&theme=radical" width="450"/>
