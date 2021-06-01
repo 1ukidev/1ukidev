@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/740291184223584437.gif"></h1>
 
 <p align="center">
-    <img height="460" src="https://media.giphy.com/media/pYNhxuY2Xx528/source.gif" align="right"/>
+    <img height="450" src="https://media.giphy.com/media/pYNhxuY2Xx528/source.gif" align="right"/>
     </br> <img src="https://count.getloli.com/get/@:1ukidev"> </br> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350">
 </p>
