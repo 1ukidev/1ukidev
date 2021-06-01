@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/740291184223584437.gif"></h1>
 
+<img height="519" src="https://media.giphy.com/media/pYNhxuY2Xx528/source.gif" align="right"/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical" width="375"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&count_private=true&show_icons=true&theme=radical" width="450">
+    </br> <img src="https://count.getloli.com/get/@:1ukidev"> </br> </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="375"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="450">
 </p>
 
 <h1 align="center">💻 Skills:</h1>
@@ -18,6 +20,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,15 +35,11 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </p>
 
 <h1 align="center">☎️ Contact:</h1>
 <p align="center">
-<a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"></a>
+    <a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leonardomonteiro113@gmail.com"></a>
 </p>
-
-<p align="center">
-<img src="docs/image.jpg"/>
-</p>
-
-<h3 align="center">Art by RicoDZ</h3>
