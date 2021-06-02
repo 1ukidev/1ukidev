@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/740291184223584437.gif"></h1>
+<h1 align="center">Hi</h1>
 
 <p align="center">
     <img height="455" src="https://media.giphy.com/media/yALcFbrKshfoY/source.gif" align="right"/>
