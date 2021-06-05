@@ -1,9 +1,8 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/740291184223584437.gif"></h1>
 
 <p align="center">
-    <img height="455" src="https://media.giphy.com/media/yALcFbrKshfoY/source.gif" align="right"/>
-    </br> <img src="https://count.getloli.com/get/@:1ukidev"> </br> </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350">
+    </br> <img src="https://count.getloli.com/get/@:1ukidev"> </br> </br> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="418">
 </p>
 
 <h1 align="center">💻 Skills:</h1>
