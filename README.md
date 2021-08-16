@@ -1,7 +1,8 @@
 <h1 align="center">Hi! 👋</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/> <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="418">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="418">
 </p>
 
 <h1 align="center">💻 Skills:</h1>
@@ -22,7 +23,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </p>
 
 <h1 align="center">⌛ In progress:</h1>
@@ -31,7 +32,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
 </p>
 
 <h1 align="center">☎️ Contact:</h1>
