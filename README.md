@@ -1,5 +1,3 @@
-<h1 align="center">Hi! 👋</h1>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="350"/>
     <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="418">
