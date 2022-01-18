@@ -33,9 +33,11 @@
 
 <h1 align="center">☎️ Contact:</h1>
 <p align="center">
-    <a href="mailto:leo.monteiro06@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <a href="mailto:leo.monteiro06@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:leonardomonteiro113@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/uLuKiu"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/uLuKiu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/916828549413994558"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
