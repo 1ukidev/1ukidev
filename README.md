@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=prs,issues" width="550">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="353"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=1ukidev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=prs,issues" width="525">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="337"/>
 </p>
 
 <h1 align="center">💻 Skills:</h1>
