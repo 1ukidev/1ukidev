@@ -20,15 +20,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
-<h1 align="center">⌛ In progress:</h1>
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</p>
-
 <h1 align="center">☎️ Contact:</h1>
 <p align="center">
     <a href="mailto:leo.monteiro06@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
