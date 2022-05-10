@@ -33,5 +33,4 @@
     <a href="https://t.me/uLuKiu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/916828549413994558"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <p align="center"><b>Matrix: @oluki:matrix.org</b></p>
 </p>
