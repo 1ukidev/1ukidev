@@ -3,7 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical" width="322"/>
 </p>
 
-<h1 align="center">💻 Skills:</h1>
+<h1 align="center">💻 Main skills:</h1>
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
