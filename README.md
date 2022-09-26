@@ -32,3 +32,5 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/916828549413994558"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+<h6 align="center">Professor Clemilton, obrigado por tudo.</h6>
