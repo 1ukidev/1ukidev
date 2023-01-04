@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github-readme-stats-1ukidev.vercel.app/api?username=1ukidev&theme=radical&show_icons=true&hide=prs,issues&hide_border=true&border_radius=30" width="500">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical&hide_border=true&border_radius=30" width="322"/>
+    <img src="https://github-readme-stats-1ukidev.vercel.app/api/top-langs/?username=1ukidev&layout=compact&theme=radical&hide_border=true&border_radius=30" width="322"/>
 </p>
 
 <h1 align="center">💻 Main skills:</h1>
