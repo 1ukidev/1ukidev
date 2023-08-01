@@ -26,9 +26,7 @@
 
 <h1 align="center">☎️ Contact:</h1>
 <p align="center">
-    <a href="mailto:leo.monteiro06@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:leonardomonteiro113@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:me@1uki.cloud"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/leonardomm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
